@@ -11,7 +11,7 @@
   },
   "peerDependencies": {
     "redux-persist": "^4.0.0",
-    "immutable": ">= 3"
+    "immutable": ">= 4"
   },
   "repository": {
     "type": "git",
